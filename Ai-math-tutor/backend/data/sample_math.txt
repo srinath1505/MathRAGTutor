@@ -1,0 +1,35 @@
+Basic Math Concepts
+
+Addition:
+Addition is the process of combining two or more numbers. The symbol for addition is +.
+Example: 2 + 3 = 5
+When adding, the order of numbers doesn't matter (commutative property): 2 + 3 = 3 + 2
+
+Subtraction:
+Subtraction is the process of taking one number away from another. The symbol for subtraction is -.
+Example: 5 - 2 = 3
+Unlike addition, subtraction is not commutative: 5 - 2 ≠ 2 - 5
+
+Multiplication:
+Multiplication is repeated addition. The symbol for multiplication is × or *.
+Example: 3 × 4 = 12 (which is the same as 4 + 4 + 4)
+Multiplication is commutative: 3 × 4 = 4 × 3
+
+Division:
+Division is the process of sharing or grouping equally. The symbol for division is ÷ or /.
+Example: 12 ÷ 3 = 4
+Division is not commutative: 12 ÷ 3 ≠ 3 ÷ 12
+
+Fractions:
+A fraction represents a part of a whole. It has two parts:
+- Numerator (top number): how many parts we have
+- Denominator (bottom number): how many equal parts the whole is divided into
+Example: 3/4 means 3 parts out of 4 equal parts
+
+Decimals:
+Decimals are another way to represent fractions. The decimal point separates the whole number part from the fractional part.
+Example: 0.5 is the same as 1/2
+
+Percentages:
+A percentage is a fraction with 100 as the denominator. The symbol for percentage is %.
+Example: 50% = 50/100 = 0.5 = 1/2

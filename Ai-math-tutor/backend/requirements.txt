@@ -1,0 +1,11 @@
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-google-genai==1.0.1
+google-generativeai==0.4.1
+langchain-core==0.1.48
+langsmith==0.1.17
+chromadb==0.4.22
+sentence-transformers==2.2.2
+fastapi==0.109.0
+uvicorn==0.27.1
+python-dotenv==1.0.1
